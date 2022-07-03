@@ -1,5 +1,5 @@
 baseURL = "https://valerio-blog.netlify.app/"
-title = "Valerio's Blog"
+title = "Valério's Blog"
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -74,13 +74,13 @@ mainSections = ["post"]
 # bgmImageChart = "000000"
 
 # License
-license = "CC BY-NC-SA 4.0"
-licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+license = "MIT"
+licenseLink = "https://mit-license.org/"
 
 # Comments
 # utterances, see: https://utteranc.es/
-# utterancesRepo = "*/*"
-# utterancesIssueTerm = "pathname"
+utterancesRepo = "Valeriooooh/Blog"
+utterancesIssueTerm = "title"
 
 # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
 # disqusShortname = "*********"
