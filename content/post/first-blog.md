@@ -1,6 +1,8 @@
 ---
 title: "First Post"
+# categories: "Casual"
 date: 2022-07-03T00:27:56+01:00
+tags: ["Programming", "Gaming"]
 draft: false
 ---
 

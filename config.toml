@@ -2,7 +2,7 @@ baseURL = "https://valerio-blog.netlify.app/"
 title = "Valério's Blog"
 
 theme = "fuji"
-hasCJKLanguage = true
+hasCJKLanguage = false
 enableEmoji = true
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
@@ -36,7 +36,7 @@ author = "Diogo Valério"                # You can also set author in post front
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = "https://valerio-blog.netlify.app/"
+# sourceURL = ""
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
@@ -60,11 +60,11 @@ showLicense = true
 showToc = true
 
 # Copyright
-copyrightStartYear = "2020"
+copyrightStartYear = "2022"
 
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
-description = "A minimal Hugo theme with nice theme color."
+description = "A tech blog where you can find tech news, Gaming stuff, Linux stuff, rants and solutions to some obscure problems..."
 og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage
@@ -113,6 +113,7 @@ endLevel = 3
 
 [taxonomies]
 tag = "tags"
+# category = "categories"
 
 [menu]
 [[menu.nav]]
@@ -142,8 +143,8 @@ url = "https://github.com/Valeriooooh"
 weight = 1
 [[menu.link]]
 name = "Reddit"
-url = "https://space.bilibili.com/19767474"
-weight = 1
+url = "https://www.reddit.com/user/diogocsvalerio"
+weight = 2
 
 [build]
 noJSConfigInAssets = false
