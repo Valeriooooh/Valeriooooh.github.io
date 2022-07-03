@@ -1,4 +1,4 @@
-baseURL = "http://valeriooooh.github.io/Blog/"
+baseURL = "https://valeriooooh.github.io/Blog/"
 title = "Valerio's Blog"
 
 theme = "fuji"
@@ -36,7 +36,7 @@ author = "Diogo Valério"                # You can also set author in post front
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = " http://valeriooooh.github.io/Blog/"
+sourceURL = " https://valeriooooh.github.io/Blog/"
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
@@ -146,7 +146,7 @@ url = "https://space.bilibili.com/19767474"
 weight = 1
 
 [build]
-noJSConfigInAssets = true
+noJSConfigInAssets = false
 
 [security]
 enableInlineShortcodes = true
