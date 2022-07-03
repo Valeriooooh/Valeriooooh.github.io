@@ -46,7 +46,7 @@ sourceURL = " https://valeriooooh.github.io/Blog/"
 
 # Google AdSense
 # The AdSense code will be inserted between the head tags of your site.
-# googleAdsense = "0000000000000000"
+googleAdsense = "7485191414403669"
 
 # Word counter and read time indicator in post metadata
 showWordCounter = true
