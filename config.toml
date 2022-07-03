@@ -146,6 +146,11 @@ name = "Reddit"
 url = "https://www.reddit.com/user/diogocsvalerio"
 weight = 2
 
+[sitemap]
+changefreq = 'monthly'
+filename = 'sitemap.xml'
+priority = 0.5
+
 [build]
 noJSConfigInAssets = false
 
